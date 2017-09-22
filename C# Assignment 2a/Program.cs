@@ -32,6 +32,7 @@ namespace C__Assignment_2a
                if(i==10)
                {
                    Console.WriteLine("You reached 10");
+                   break;
                } 
             }
         }

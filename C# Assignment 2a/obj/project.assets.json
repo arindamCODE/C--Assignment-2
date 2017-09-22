@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\C# Assignment 2a\\C# Assignment 2a.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\C# Assignment 2\\C# Assignment 2a\\C# Assignment 2a.csproj",
       "projectName": "C# Assignment 2a",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\C# Assignment 2a\\C# Assignment 2a.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\C# Assignment 2\\C# Assignment 2a\\C# Assignment 2a.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\C# Assignment 2a\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\C# Assignment 2\\C# Assignment 2a\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

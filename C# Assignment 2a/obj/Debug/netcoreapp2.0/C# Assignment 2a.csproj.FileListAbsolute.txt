@@ -8,3 +8,13 @@ C:\Users\Administrator\Desktop\C# Assignment 2a\obj\Debug\netcoreapp2.0\C# Assig
 C:\Users\Administrator\Desktop\C# Assignment 2a\obj\Debug\netcoreapp2.0\C# Assignment 2a.AssemblyInfo.cs
 C:\Users\Administrator\Desktop\C# Assignment 2a\obj\Debug\netcoreapp2.0\C# Assignment 2a.dll
 C:\Users\Administrator\Desktop\C# Assignment 2a\obj\Debug\netcoreapp2.0\C# Assignment 2a.pdb
+C:\Users\Administrator\Desktop\C# Assignment 2\C# Assignment 2a\bin\Debug\netcoreapp2.0\C# Assignment 2a.deps.json
+C:\Users\Administrator\Desktop\C# Assignment 2\C# Assignment 2a\bin\Debug\netcoreapp2.0\C# Assignment 2a.runtimeconfig.json
+C:\Users\Administrator\Desktop\C# Assignment 2\C# Assignment 2a\bin\Debug\netcoreapp2.0\C# Assignment 2a.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C# Assignment 2\C# Assignment 2a\bin\Debug\netcoreapp2.0\C# Assignment 2a.dll
+C:\Users\Administrator\Desktop\C# Assignment 2\C# Assignment 2a\bin\Debug\netcoreapp2.0\C# Assignment 2a.pdb
+C:\Users\Administrator\Desktop\C# Assignment 2\C# Assignment 2a\obj\Debug\netcoreapp2.0\C# Assignment 2a.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# Assignment 2\C# Assignment 2a\obj\Debug\netcoreapp2.0\C# Assignment 2a.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C# Assignment 2\C# Assignment 2a\obj\Debug\netcoreapp2.0\C# Assignment 2a.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C# Assignment 2\C# Assignment 2a\obj\Debug\netcoreapp2.0\C# Assignment 2a.dll
+C:\Users\Administrator\Desktop\C# Assignment 2\C# Assignment 2a\obj\Debug\netcoreapp2.0\C# Assignment 2a.pdb
